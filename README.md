@@ -1,4 +1,4 @@
 # RSET-Data-Science
-Data Sceince add on course
+Data Science add on course
 --------------------------
 Github and Git familiarization
